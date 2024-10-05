@@ -1,0 +1,7 @@
+LI4 - Heroku
+conta: a93241@alunos.uminho.pt
+pass conta: d86ce9f72c30@
+nomeDB: heroku_29b225de6c6b619
+userDB: bfb51a760f41c5
+passDB: 351e07de
+linkDB: us-cdbr-east-05.cleardb.net
